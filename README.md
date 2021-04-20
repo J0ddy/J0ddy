@@ -5,4 +5,4 @@
 - 📫 How to reach me: [Discord - Joddy#0001](https://discord.com/users/349187806050123787) & [Email](mailto:me@joddy.dev)
 - ⚡ Fun fact: idk
 
-!(https://ss.joddy.dev/kiKU0/WavIvuGU63.gif/raw)[iamge]
+
