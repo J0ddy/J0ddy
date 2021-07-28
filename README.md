@@ -6,6 +6,6 @@
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="SQSZNF7WAR492" />
-<input type="image" src="https://i.jod.gg/tUGu8/xuYuJIyu19.gif/raw" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<input type="image" src="https://i.jod.gg/tUGu8/xuYuJIyu19.gif/raw" border="0" name="submit" title="Donate" alt="Donate" />
 <img alt="" border="0" src="https://www.paypal.com/en_BG/i/scr/pixel.gif" width="1" height="1" />
 </form>
