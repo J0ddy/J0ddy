@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Discord - Joddy#0001](https://discord.com/users/349187806050123787) & [Email](mailto:me@joddy.dev)
 
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=SQSZNF7WAR492" target="_blank"><img src="https://i.jod.gg/tUGu8/xuYuJIyu19.gif/raw" title="Donate" alt="Donate"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T17T3DD)
